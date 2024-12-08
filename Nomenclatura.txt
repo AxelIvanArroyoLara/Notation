@@ -1,0 +1,29 @@
+JS:
+
+- Variables y funciones: camelCase.
+- Constantes globales: SCREAMING_SNAKE_CASE.
+- Nombres de archivos: kebab-case.
+
+camelCase:
+-- Variables y funciones (JS, Java, Swift).
+
+PascalCase:
+-- Nombres de clases (Java y C#).
+
+snake_case:
+-- Variables y nombres en bases de datos (SQL y Python).
+
+kebab-case:
+-- Nombres de archivos y URL.
+
+SCREAMING_SNAKE_CASE:
+-- Constantes globales (JS, Python y C).
+
+dot.case:
+-- Claves de configuración.
+
+Train-Case:
+-- Nombres de archivos o estructuras.
+
+
+
